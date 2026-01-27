@@ -334,7 +334,6 @@ page 50141 "Supplier Management List"
             }
 
             // HTML preview section
-            // HTML preview section
             group("HTML Preview")
             {
                 Caption = 'HTML Preview';
