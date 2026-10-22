@@ -16,6 +16,7 @@ page 50142 "Supplier List"
                 field("Name"; Rec."Name") { }
                 field("Contact No."; Rec."Contact No.") { }
                 field("City"; Rec."City") { }
+                field("Discount code.";Rec."Count"){}
                 //field("Balance (LCY)" ; REC."Balance LCY"){
 
 
